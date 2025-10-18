@@ -1,4 +1,4 @@
-Capstone package (Option B)
+Capstone package
 
 Included files:
 - capstone_healthcare_readmission_analysis.ipynb.
